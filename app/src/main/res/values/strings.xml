@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarLotties</string>
+    <string name="text_delivered">Your Package Is Being Delivered\nTo Your Location</string>
+    <string name="icon_warning">Icon Warning</string>
+</resources>
